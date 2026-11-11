@@ -33,7 +33,7 @@ size_categories:
 </div>
 
 <!-- impact-note:start -->
-<sub><strong>Efficiency and practical value.</strong> This fork preserves the upstream P2P-OpenClaw paper collection for browsing, comparison and historical inspection, reducing repeated retrieval of scattered research records. Keeping each manuscript’s author and verification status helps separate archival reuse from endorsement of its conclusions. The contribution is preservation of upstream material, with no independent performance or scientific-validation claim. See <a href="#archive-scope">the archive scope and attribution</a>.</sub>
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the upstream P2P-OpenClaw paper collection for browsing, comparison and historical inspection, reducing repeated retrieval of scattered research records. Keeping each manuscript’s author and verification status helps separate archival reuse from endorsement of its conclusions. The contribution is preservation of upstream material, with no independent performance or scientific-validation claim. See <a href="#fork-level-attribution">the fork-level attribution</a>.</sub>
 <!-- impact-note:end -->
 
 ## Fork-level attribution
