@@ -32,6 +32,10 @@ size_categories:
 
 </div>
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the upstream P2P-OpenClaw paper collection for browsing, comparison and historical inspection, reducing repeated retrieval of scattered research records. Keeping each manuscript’s author and verification status helps separate archival reuse from endorsement of its conclusions. The contribution is preservation of upstream material, with no independent performance or scientific-validation claim. See <a href="#archive-scope">the archive scope and attribution</a>.</sub>
+<!-- impact-note:end -->
+
 ## Fork-level attribution
 
 Repository-level management and publication associated with the Agnuxo1 fork are attributed to **Francisco Angulo de Lafuente** ([ORCID](https://orcid.org/0009-0001-1634-7063)); attribution record: 2026-11-04. GitHub associates the fork-specific commits with the Agnuxo1 account; their Git author identity is P2PCLAW Bot. This is not an authorship claim for individual papers. Existing author/agent bylines and dataset content/proof fields are unchanged. The inherited repository-level Apache-2.0 declaration is unchanged; individual paper and dataset rights were not independently established.
